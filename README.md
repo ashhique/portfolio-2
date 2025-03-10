@@ -29,6 +29,8 @@ Google Fonts (Poppins) – For better typography.
 
 🚀 Getting Started
 
+live demo:  https://ashhique.github.io/portfolio-2/
+
 1️⃣ Clone this repository:
 
 git clone https://github.com/your-username/portfolio-website.git
